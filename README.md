@@ -1,13 +1,38 @@
-# Build Simple Website with NodeJS, Express & EJS view engine
+### Description
 
-## Document
-* Clone this repo: ``` git clone https://github.com/bhanushalimahesh3/node-website.git ```
-* Install dependencies using [npm](https://www.npmjs.com/) javascript package manager: ``` npm install ```
-* Start node server with [npm](https://www.npmjs.com/): ``` npm run start ```
-* Tune to url: ``` http://localhost:3000 ```
+A simple portfolio template for developer/designers built with React. 
 
-All boilerplate code managed by [express generator](https://expressjs.com/en/starter/generator.html) framework adhering to DRY rule. Routes are defined in routes/index.js file, static view pages are in views folder. I have implemented partials concept to avoid code redundancy in html using EJS view engine. Css and Javascript files are stored in public folder. 
+### [live preview](https://ubaimutl.github.io/react-portfolio/)
+
+[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
+
+### Features
+
+- Fully Responsive
+- Multi-Page Layout
+- Contact Form With EmailJs
+- React-Bootstrap
+- Edit Content From One Place
+
+### Setup
+
+Get the code
+
+<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
+ 
+Install required dependencies
+
+<pre>yarn install</pre>
 
 
-## Screenshot
-<img src="public/img/screenshot.png">
+Start the server
+
+<pre>yarn start</pre>
+
+### More
+
+Modify pages content in  `src/content_option.js`.
+
+### Thanks
+
+If you like this portfolio template don't forget give it a ⭐ 
